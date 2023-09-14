@@ -1,4 +1,4 @@
-I am a Web Developer with 2 years of experience including 6 months of internship and mainly responsible for the coding, innovative design, and layout of our website. Mainly responsibilities include building our website from concept all the way to completion from the bottom up, from the home page to site layout and function.
+I am a Web Developer with 2.6 years of experience  mainly responsible for the coding, innovative design, and layout of our website. My main responsibilities include building our website from concept all the way to completion from the bottom up, from the home page to site layout and function.
 
 -Top-notch programming skills and in-depth knowledge of modern HTML/CSS, JavaScript, React js.
 -Familiarity with the following programming languages: JavaScript, Bootstrap, Material UI, React JS, NodeJS, C, C++, C#, ASP.NET.
@@ -9,7 +9,7 @@ I am a Web Developer with 2 years of experience including 6 months of internship
 
 Responsibilities:
 • Identified web‑based user interactions and developed
-highly‑responsive user interface components via React concepts.
+highly responsive user interface components via React concepts.
 • Translated design wireframes into high‑quality code and wrote
 application interface code via JavaScript following React.js
 workflows.
