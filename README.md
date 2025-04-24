@@ -1,25 +1,43 @@
-I am a Web Developer with 3 years of experience  mainly responsible for the coding, innovative design, and layout of our website. My main responsibilities include building our website from concept all the way to completion from the bottom up, from the home page to site layout and function.
+Versatile and forward-thinking Software Engineer with around 4+ years proven
+ability to drive project success through strategic thinking and innovative
+problem-solving. With a solid foundation in Computer Science and Engineering,
+I excel not only in crafting robust software architectures but also in debugging
+code efficiently.
+In my recent project, I led the development of transformative systems, such as
+dynamic graph rendering tools and streamlined meeting management modules.
+By harnessing advanced technologies like MERN stack, I have
+consistently delivered solutions that not only meet but exceed client
+expectations, driving substantial business impact.
+I have also spearheaded initiatives to elevate performance and enhance user
+experience through ingenious features and meticulously crafted code. Through
+my mastery of Redux and seamless API integration, I have played a pivotal role
+in delivering enduring software solutions that stand as testaments to quality and
+reliability.
+Committed to continuous improvement and staying ahead of industry trends, I
+bring a blend of technical expertise and strategic vision to every project. My
+ability to communicate effectively and collaborate seamlessly across teams
+ensures the successful delivery of projects that exceed stakeholder
+expectations.
 
--Top-notch programming skills and in-depth knowledge of modern HTML/CSS, JavaScript, React js.
--Familiarity with the following programming languages: JavaScript, Bootstrap, Material UI, React JS, NodeJS, C, C++, C#, ASP.NET.
--Working most on React, Node JS, and JavaScript.
--Adequate knowledge of relational database systems, Object-Oriented Programming, and web application development.
--Data Structure and Algorithms
--Good Knowledge of Git and GitHub
-
-Responsibilities:
-• Identified web‑based user interactions and developed
-highly responsive user interface components via React concepts.
-• Translated design wireframes into high‑quality code and wrote
-application interface code via JavaScript following React.js
-workflows.
-• Troubleshoot interface software and debugged application codes to
-improve functionality and performance by 50 percent.
-• Developed and implemented front‑end architecture to support user
-interface concepts with 100 percent accuracy.
-• Developed the latest user‑facing features using React.js and built
-reusable components front‑end libraries for future use
-Developing new user-facing features using React.js
-Building reusable components and front-end libraries for future use
-Translating designs and wireframes into high-quality code
-Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+Skill Set-
+• Experienced in crafting interactive user interfaces with HTML5, CSS3, and
+modern JavaScript/TypeScript.
+• Skilled in frontend styling frameworks such as Bootstrap, Tailwind, and
+Material UI.
+• Proficient in building high-performance web applications using React JS and
+Redux Toolkit.
+• Familiarity with testing libraries like Jest and React Testing Library for
+ensuring code quality and reliability.
+• Proficient in version control systems like Git and collaborative platforms
+such as GitHub and Azure DevOps.
+• Experience with cloud platforms like AWS and Azure for deploying and
+managing scalable applications.
+• Familiarity with development tools including Postman for API testing and
+Swagger for API documentation.
+• Proficient in project management tools like JIRA and communication
+platforms like Slack for seamless collaboration.
+• Proficient in Agile Methodology, particularly Scrum, for iterative and
+adaptive development. Utilizes Scrum principles and practices such as daily
+stand-ups, sprint planning, backlog grooming, and sprint retrospectives to
+ensure continuous improvement, transparency, and adaptability in project
+development.
