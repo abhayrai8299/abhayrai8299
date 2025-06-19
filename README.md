@@ -1,4 +1,4 @@
-Versatile and forward-thinking Software Engineer with around 4+ years proven
+Versatile and forward-thinking Software Engineer with around 4.5+ years proven
 ability to drive project success through strategic thinking and innovative
 problem-solving. With a solid foundation in Computer Science and Engineering,
 I excel not only in crafting robust software architectures but also in debugging
