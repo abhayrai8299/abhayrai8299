@@ -1,43 +1,34 @@
-Versatile and forward-thinking Software Engineer with around 4.5+ years proven
-ability to drive project success through strategic thinking and innovative
-problem-solving. With a solid foundation in Computer Science and Engineering,
-I excel not only in crafting robust software architectures but also in debugging
-code efficiently.
-In my recent project, I led the development of transformative systems, such as
-dynamic graph rendering tools and streamlined meeting management modules.
-By harnessing advanced technologies like MERN stack, I have
-consistently delivered solutions that not only meet but exceed client
-expectations, driving substantial business impact.
-I have also spearheaded initiatives to elevate performance and enhance user
-experience through ingenious features and meticulously crafted code. Through
-my mastery of Redux and seamless API integration, I have played a pivotal role
-in delivering enduring software solutions that stand as testaments to quality and
-reliability.
-Committed to continuous improvement and staying ahead of industry trends, I
-bring a blend of technical expertise and strategic vision to every project. My
-ability to communicate effectively and collaborate seamlessly across teams
-ensures the successful delivery of projects that exceed stakeholder
-expectations.
+👨‍💻 About Me
+🔧 Full Stack Engineer with 4.7+ years of experience in building high-performance, scalable web applications using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-Skill Set-
-• Experienced in crafting interactive user interfaces with HTML5, CSS3, and
-modern JavaScript/TypeScript.
-• Skilled in frontend styling frameworks such as Bootstrap, Tailwind, and
-Material UI.
-• Proficient in building high-performance web applications using React JS and
-Redux Toolkit.
-• Familiarity with testing libraries like Jest and React Testing Library for
-ensuring code quality and reliability.
-• Proficient in version control systems like Git and collaborative platforms
-such as GitHub and Azure DevOps.
-• Experience with cloud platforms like AWS and Azure for deploying and
-managing scalable applications.
-• Familiarity with development tools including Postman for API testing and
-Swagger for API documentation.
-• Proficient in project management tools like JIRA and communication
-platforms like Slack for seamless collaboration.
-• Proficient in Agile Methodology, particularly Scrum, for iterative and
-adaptive development. Utilizes Scrum principles and practices such as daily
-stand-ups, sprint planning, backlog grooming, and sprint retrospectives to
-ensure continuous improvement, transparency, and adaptability in project
-development.
+⚛️ Frontend Expert:
+Specialized in React.js + TypeScript, using advanced state management libraries like Redux Toolkit, Zustand, Recoil, and React Query.
+Implemented performance techniques such as memoization, lazy loading, and code splitting, improving render speed by 40%.
+Experience with CSS frameworks like TailwindCSS, Material UI, Ant Design, and DaisyUI.
+
+🧠 Backend Development:
+Proficient in Node.js with Express.js and GraphQL, building RESTful APIs and microservices with robust architecture.
+Skilled in MongoDB and PostgreSQL, with optimized schema designs, indexing, and aggregation pipelines for large data handling.
+
+🧪 Testing & Quality:
+Advocates for maintainable code using Jest, Cypress, and React Testing Library.
+Documented reusable components via Storybook, enabling design-system-level consistency.
+
+🚀 DevOps & Cloud:
+Hands-on experience with CI/CD pipelines using GitHub Actions, and deploying apps on Azure, AWS (ECS/EKS), Firebase, and Railway App.
+Familiar with Docker-based deployment strategies and cloud monitoring tools.
+
+🧰 Developer Tools & Collaboration:
+Skilled with Git, Postman, Swagger, Figma, Jira, Bitbucket, Confluence, Slack, and Chrome DevTools.
+Passionate about Agile practices, clean code, and technical documentation.
+
+🏆 Recognition & Community:
+Multiple-time award winner (Star of the Quarter, Best Code Quality, Top Performer).
+Competitive programmer: HackerRank 6⭐, CodeChef 3⭐.
+
+📂 Explore My Work:
+
+🔗 Portfolio: abhayraiportfolio.web.app
+🔗 LinkedIn: linkedin.com/in/abhay-rai-192151197
+
+🔗 Featured Projects: Ekart (E-commerce)-https://ekart-28b23.web.app/dashboard/, Mploi (Job Portal)-https://mploi.com, Expenditure Tracker (Finance App)- https://abhayrai8299.github.io/Expendituretracker/
